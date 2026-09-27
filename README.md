@@ -36,3 +36,7 @@ Edit boards.js. Each board contains five categories and each category contains f
 Keyboard controls: Space reveals a clue; Escape returns to the board. Buttons work with Enter. Native dialogs support Escape. Reduced-motion preferences disable animations; sound is off by default. Progress stays in localStorage on the current browser/device. There are no analytics, tracking scripts, online rooms, or phone buzzers.
 
 Unofficial fan-made trivia; not affiliated with Warner Bros. or the Jeopardy! rights holders. The apartment illustration and audio tones are created for this game; no show footage or recorded soundtrack is bundled.
+
+## Relaxed mode
+
+Choose **Just the questions** on the home screen. No setup, teams, scoring, point values, or timer. Reveal answers at your own pace, then use **Next question** or return to choose another category. Progress is stored separately from team games, so switching modes preserves both sessions.
