@@ -34,7 +34,7 @@ window.BOARDS = [
         ]
       },
       {
-        "name": "Seven! Seven! SEVEN!",
+        "name": "By the Numbers",
         "icon": "7️⃣",
         "description": "Every answer is a number",
         "clues": [
@@ -137,7 +137,7 @@ window.BOARDS = [
           },
           {
             "question": "During Thanksgiving, Monica lists five reasons the others should not judge her. Name the embarrassing fact she mentions for each friend.",
-            "answer": "Ross married a lesbian; Rachel left a man at the altar; Phoebe loved a gay ice dancer; Joey threw a wooden leg in a fire; Chandler is living in a box. Award the tile for all five, or agree on partial credit before play."
+            "answer": "Ross married a lesbian; Rachel left a man at the altar; Phoebe loved a gay ice dancer; Joey threw a wooden leg in a fire; Chandler is living in a box. Name all five to earn the tile."
           }
         ]
       }
@@ -319,7 +319,7 @@ window.BOARDS = [
           },
           {
             "question": "Which restaurant hires Monica as head chef after she writes a scathing review of it?",
-            "answer": "Alessandro’s.",
+            "answer": "Alessandro’s (also spelled Allesandro’s).",
             "reference": "S4 E9 · The One Where They’re Going to Party!"
           }
         ]
